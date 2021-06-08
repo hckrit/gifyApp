@@ -1,0 +1,17 @@
+
+body{
+  
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
+    width: 950px;
+    background: rgb(5, 5, 31);
+    color: rgba(255, 255, 255, 0.733);
+}
+
+img{
+    max-width: 100%;
+}
+
+h1{
+    font-size:5vw;
+}
